@@ -1,0 +1,40 @@
+hello
+I have Two Tables.
+
+Service Desk is the first table
+CRM is the other table
+
+
+
+The table represents requests from customers to a group in a bank
+So we need to make Data Cleaning For the tables if needed then I need a dashboard for the resolution rate, effectiveness, etc
+For the four teams, across the two platforms (ie service desk and CRM)
+The four teams are
+ATM Support
+Corporate Digital Banking
+Internet and Mobile Banking Support
+POS Merchant Services
+
+
+
+Although
+
+
+
+ATM Support doesn’t work on CRM platform, For service desk
+Breached passed are the cases that were not resolved early enough, For CRM
+Within SLA are the cases that were resolved early
+
+CHANNELS_AND_DIGITAL_SUPPORT_CRM_AND_SERVICE_DESK_HALF_YEAR_REPORT.pbix 
+
+
+
+----------------------------------
+
+Improve/Re-do Visualization and Dashboard.
+Add more insights based on the tables with PowerBI
+
+Service Desk is the first table
+CRM is the other table
+The table represents requests from customers to a group in a bank
+So we need a dashboard for the resolution rate, effectiveness, etc
